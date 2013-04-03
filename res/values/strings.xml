@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Trash Android Bugreport</string>
-    <string name="activity_name">trash bugreport</string>
+    <string name="app_name">Trash Android Bugreports</string>
+    <string name="activity_name">Trash bugreport</string>
 </resources>
